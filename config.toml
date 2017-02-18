@@ -1,0 +1,12 @@
+languageCode = "en-us"
+title = "s2c wiki"
+baseurl = "http://example.org/"
+
+[author]
+	name = "Diego Hernández"
+	twitter = "@Diiegopop"
+
+[params]
+	[params.sharebutton]
+		twitter = true
+		facebook = true
